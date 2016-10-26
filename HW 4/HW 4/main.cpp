@@ -4,7 +4,6 @@
 using namespace std;
 
 void findAverage(int*, int);
-void outputArray(int*, int);
 int* doubleCapacity(const int* list, int size);
 void printArray(const int*, const int);
 void findSmallest(int*, int);
